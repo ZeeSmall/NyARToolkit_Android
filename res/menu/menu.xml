@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>  
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/MENU_SCALE"
+    android:title="拡大縮小"
+    android:numericShortcut="1" />
+    <item android:id="@+id/MENU_ROTATE"
+    android:title="回転"
+    android:numericShortcut="2" />
+    <item android:id="@+id/MENU_TRANSLATE"
+    android:title="移動"
+    android:numericShortcut="3" />
+</menu>
